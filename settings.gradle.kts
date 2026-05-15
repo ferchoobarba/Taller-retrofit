@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Taller_retrofit"
+rootProject.name = "My Application Room"
 include(":app")
